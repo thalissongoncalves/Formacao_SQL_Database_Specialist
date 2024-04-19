@@ -7,4 +7,3 @@ O que são Banco de Dados?
 
     Uso mais restrito:
         - Contexto - representação do mundo real;
-        
